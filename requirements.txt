@@ -1,6 +1,6 @@
 jupyterlab
 numpy
-pyplot
+matplotlib
 scipy
 IPython
 voila
