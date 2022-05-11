@@ -1,6 +1,5 @@
 jupyterlab
 numpy
-random
 pyplot
 scipy
 IPython
